@@ -1,0 +1,13 @@
+{
+    "name": "roman/epochta-sms-notification",
+    "description": "library for using sms notification from Epochta service",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "roman",
+            "email": "r.furman@artjoker.team"
+        }
+    ],
+    "require": {}
+}
