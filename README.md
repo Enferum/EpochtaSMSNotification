@@ -1,2 +1,2 @@
 # EpochtaSMSNotification
-Laravel package of Epochta API PHP
+Laravel package of Epochta PHP
